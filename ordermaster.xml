@@ -1,0 +1,12 @@
+<order id="000001">
+	<item>
+		<itemid>6209</itemid>
+		<quantity>1</quantity>
+		<refunded>0</refunded></item>
+	<item>
+		<itemid>6210</itemid>
+		<quantity>2</quantity>
+		<refunded>0</refunded></item>
+	<payment>
+		<cash>0</cash>
+		<cashless>649.99</cashless></payment></order>

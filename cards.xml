@@ -1,0 +1,11 @@
+<cards>
+	<card id="00001">
+		<employee-details auth="manager" name="00001"></employee-details>
+	</card>
+	<card id="00002">
+		<employee-details auth="manager" name="00002"></employee-details>
+	</card>
+	<card id="2342354">
+		<employee-details auth="manager" name="Josh Sargent"></employee-details>
+	</card>
+</cards>
