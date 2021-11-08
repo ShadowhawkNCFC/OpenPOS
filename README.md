@@ -1,5 +1,5 @@
-# [logo](https://user-images.githubusercontent.com/55113626/140766469-81f5e375-2f35-441f-804e-523846784e7d.png) OpenPOS
-###An open-source POS system that's fully scalable to any use. 
+# OpenPOS
+### An open-source POS system that's fully scalable to any use. 
 
 ---
 
